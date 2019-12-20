@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Balance Information">
+    <parameter name="browserType" value="chrome"/>
+    <parameter name="url" value="https://www.chase.com"/>
+    <test name="Logging to Chase Bank" enabled="true" preserve-order="true">
+        <classes>
+            <class name="venkata.tests.testing">
+                <methods>
+                    <include name="chaseLogin"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -13,6 +13,7 @@
             <artifactId>selenium-java</artifactId>
             <version>3.141.59</version>
         </dependency>
+
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
@@ -20,6 +21,7 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+
     <build>
         <plugins>
             <plugin>
@@ -32,5 +34,62 @@
             </plugin>
         </plugins>
     </build>
+
+    <profiles>
+        <profile>
+            <id>bankstatement</id>
+            <build>
+                <pluginManagement>
+                    <plugins>
+                        <plugin>
+                            <groupId>org.apache.maven.plugins</groupId>
+                            <artifactId>maven-surefire-plugin</artifactId>
+                            <version>2.20</version>
+                            <configuration>
+                                <suiteXmlFiles>
+                                    <suiteXmlFile>
+                                        ${project.basedir}/src/test/resources/chase/chaseBalance.xml
+                                    </suiteXmlFile>
+                                </suiteXmlFiles>
+                                <systemPropertyVariables>
+                                    <path.prefix>${project.build.directory}/test-classes</path.prefix>
+                                    <browserType>chrome</browserType>
+                                    <url>https://www.chase.com"</url>
+                                </systemPropertyVariables>
+                            </configuration>
+                        </plugin>
+                        <plugin>
+                            <groupId>org.apache.maven.plugins</groupId>
+                            <artifactId>maven-compiler-plugin</artifactId>
+                            <configuration>
+                                <source>1.8</source>
+                                <target>1.8</target>
+                                <!-- put your configurations here -->
+                            </configuration>
+                        </plugin>
+                        <plugin>
+                            <artifactId>maven-assembly-plugin</artifactId>
+                            <version>2.6</version>
+                            <configuration>
+                                <descriptors>
+                                    <descriptor>${basedir}/assembly.xml</descriptor>
+                                </descriptors>
+                            </configuration>
+                            <executions>
+                                <execution>
+                                    <id>make-assembly</id>
+                                    <phase>package</phase>
+                                    <goals>
+                                        <goal>single</goal>
+                                    </goals>
+                                </execution>
+                            </executions>
+                        </plugin>
+                    </plugins>
+                </pluginManagement>
+            </build>
+        </profile>
+    </profiles>
+
 
 </project>
