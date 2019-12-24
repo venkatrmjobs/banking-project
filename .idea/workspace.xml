@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00ac4cbc-4b01-4792-b6b9-2af8fbdf4cbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/commons/WebTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/venkata/pages/Chase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/venkata/pages/Citi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/venkata/pages/WellsFargo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/chase/chaseBalance.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/commons/Init.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/commons/Init.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/venkata/tests/testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/venkata/tests/testing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/commons/Init.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/commons/Init.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/venkata/tests/testing.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/venkata/tests/testing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/upputuri-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/chase/chaseBalance.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/chase/chaseBalance.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,11 +22,70 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/chase/chaseBalance.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="228">
+              <caret line="12" column="48" lean-forward="true" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="55" column="62" selection-start-line="55" selection-start-column="62" selection-end-line="55" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/commons/Init.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1365#1366#0" expanded="true" />
+                <element signature="e#1425#1426#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/venkata/pages/Chase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/venkata/tests/testing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/commons/WebTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -57,12 +105,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/resources/chase/chaseBalance.xml" />
         <option value="$PROJECT_DIR$/src/test/java/commons/WebTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/venkata/tests/testing.java" />
-        <option value="$PROJECT_DIR$/src/test/java/venkata/pages/Chase.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/commons/Init.java" />
+        <option value="$PROJECT_DIR$/src/test/java/venkata/pages/Chase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/venkata/tests/testing.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/chase/chaseBalance.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -89,9 +137,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="160" />
-    <option name="width" value="1083" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -134,6 +183,11 @@
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="chase" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="venkata-automation-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="banking-project" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -144,7 +198,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576874140221" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577063432298" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -174,7 +228,7 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG.C:/banking-project/src/test/resources/chase/chaseBalance.xml">
-    <configuration name="C:/banking-project/src/test/resources/chase/chaseBalance.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/banking-project/src/test/resources/chase/chaseBalance.xml" type="TestNG" nameIsGenerated="true">
       <module name="upputuri" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/chase/chaseBalance.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
@@ -184,7 +238,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testing" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="testing" type="TestNG" nameIsGenerated="true">
       <module name="venkata-automation-project" />
       <extension name="coverage">
         <pattern>
@@ -201,12 +255,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="TestNG.C:/banking-project/src/test/resources/chase/chaseBalance.xml" />
-        <item itemvalue="TestNG.testing" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -222,19 +270,12 @@
       <workItem from="1576800511957" duration="8192000" />
       <workItem from="1576812664125" duration="2031000" />
       <workItem from="1576814755305" duration="11025000" />
+      <workItem from="1576874704422" duration="1036000" />
+      <workItem from="1577059048050" duration="4975000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__banking-project_src_test_resources_chase_chaseBalance_xml - 2019.12.20 at 14h 56m 13s.xml">
-      <configuration name="C:/banking-project/src/test/resources/chase/chaseBalance.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__banking-project_src_test_resources_chase_chaseBalance_xml - 2019.12.20 at 14h 58m 34s.xml">
-      <configuration name="C:/banking-project/src/test/resources/chase/chaseBalance.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__banking-project_src_test_resources_chase_chaseBalance_xml - 2019.12.20 at 15h 02m 30s.xml">
-      <configuration name="C:/banking-project/src/test/resources/chase/chaseBalance.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__banking-project_src_test_resources_chase_chaseBalance_xml - 2019.12.20 at 15h 05m 53s.xml">
       <configuration name="C:/banking-project/src/test/resources/chase/chaseBalance.xml" configurationId="TestNG" />
     </history-entry>
@@ -256,9 +297,18 @@
     <history-entry file="C__banking-project_src_test_resources_chase_chaseBalance_xml - 2019.12.20 at 15h 35m 38s.xml">
       <configuration name="C:/banking-project/src/test/resources/chase/chaseBalance.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__banking-project_src_test_resources_chase_chaseBalance_xml - 2019.12.22 at 19h 43m 06s.xml">
+      <configuration name="C:/banking-project/src/test/resources/chase/chaseBalance.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__banking-project_src_test_resources_chase_chaseBalance_xml - 2019.12.22 at 19h 49m 02s.xml">
+      <configuration name="C:/banking-project/src/test/resources/chase/chaseBalance.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__banking-project_src_test_resources_chase_chaseBalance_xml - 2019.12.22 at 19h 56m 30s.xml">
+      <configuration name="C:/banking-project/src/test/resources/chase/chaseBalance.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25194000" />
+    <option name="totallyTimeSpent" value="31205000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -270,10 +320,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21208054" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21744967" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -282,16 +332,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4114202" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.51537335" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.5523521" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329429" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.7320644" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.6852123" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.329429" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.64568084" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32796487" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -338,18 +388,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/venkata/tests/testing.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17.jar!/org/apache/log4j/spi/LoggerFactory.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -372,30 +410,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/venkata/pages/Chase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/venkata/pages/Citi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/venkata/tests/testing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -406,42 +424,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/commons/Init.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="33" column="72" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="72" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1241#1242#0" expanded="true" />
-            <element signature="e#1296#1297#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/commons/WebTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/venkata/pages/Chase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-432">
-          <caret line="39" column="29" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="29" />
+        <state relative-caret-position="366">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/venkata/tests/testing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/testconfgi.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/commons/Init.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1365#1366#0" expanded="true" />
+            <element signature="e#1425#1426#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/chase/chaseBalance.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="228">
+          <caret line="12" column="48" lean-forward="true" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="55" column="62" selection-start-line="55" selection-start-column="62" selection-end-line="55" selection-end-column="62" />
         </state>
       </provider>
     </entry>
@@ -502,6 +540,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

@@ -53,7 +53,7 @@
                                 </suiteXmlFiles>
                                 <systemPropertyVariables>
                                     <path.prefix>${project.build.directory}/test-classes</path.prefix>
-                                    <browserType>chrome</browserType>
+                                    <browserType>${browserType}</browserType>
                                     <url>https://www.chase.com"</url>
                                 </systemPropertyVariables>
                             </configuration>

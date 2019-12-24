@@ -10,9 +10,9 @@ import org.testng.annotations.Test;
 import venkata.pages.Chase;
 
 public class testing  {
-    private Init init;
     private WebDriver webDriver;
     private Chase chase;
+
 
     @Test
     @Parameters({"browserType","url"})
@@ -20,7 +20,6 @@ public class testing  {
         webDriver = Init.initiateDriver(browserType);
         chase = Chase.getDriverInstance(webDriver);
         chase.loadPage(url);
-        chase.login("venkatrm1", "ongole50");
 
     }
 }
